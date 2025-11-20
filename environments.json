@@ -1,0 +1,5 @@
+{
+    "API_KEY" : "<YOUR_API_TOKEN_OPENROUTE>",
+    "TELEGRAM_TOKEN" : "<YOUR_API_BOT>",
+    "MODEL" : "<YOUR_MODEL>"
+}
